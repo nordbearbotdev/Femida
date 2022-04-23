@@ -33,8 +33,8 @@
 
 `/fban  addtemp [причина] – работает как и /ban addtemp [причина]` - Плагин Femida
 
-### Команда
-[**nordbearbotdev**](https://github.com/nordbearbotdev/) - 
+### 👥  Разработчики
+[**nordbearbotdev**](https://github.com/nordbearbotdev/) - Сайт & Основна плагина.
 
 ### Помощь в разработке
 
