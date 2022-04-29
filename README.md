@@ -51,7 +51,7 @@
 </p>
 
 
-## :mailbox_with_mail: Get in touch!
+## :mailbox_with_mail: Наши ресусрсы!
 
 <p align="center">
 <a href="/" target="_blank" >
