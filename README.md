@@ -49,8 +49,11 @@
 <p align="center">
 <a href="https://discord.gg/s4gFbdrMmd"><img title="Discord" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"</a>
 </p>
-
-
+  
+  
+## 📃 Лицензия
+Этот проект под . Посмотрите файл LICENSE чтобы прочитать больше информации.
+  
 ## :mailbox_with_mail: Наши ресусрсы!
 
 <p align="center">
