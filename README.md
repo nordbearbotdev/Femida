@@ -43,10 +43,11 @@
 
 `git clone https://github.com/nordvearbotdev/Femida`
 
+Далее
+
 ```
 # переходим в папку с Femida
 cd Femida
-
 ```
 
 ### 👥  Разработчики
