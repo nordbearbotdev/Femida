@@ -49,3 +49,17 @@
 <p align="center">
 <a href="https://discord.gg/s4gFbdrMmd"><img title="Discord" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"</a>
 </p>
+
+
+## :mailbox_with_mail: Get in touch!
+
+<p align="center">
+<a href="/" target="_blank" >
+  <img alt="Linkedin - " src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+</a>
+<a href="mailto:Sorry! I dont public email now " target="_blank" >
+  <img alt="Email - " src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+</a> 
+<br/>
+  Made with :coffee: and ❤️ by <b>nordbearbot(Woodman)</b>.
+<p/> 
