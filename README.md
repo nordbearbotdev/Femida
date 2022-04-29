@@ -43,6 +43,12 @@
 
 `git clone https://github.com/nordvearbotdev/Femida`
 
+```
+# переходим в папку с Femida
+cd Femida
+
+```
+
 ### 👥  Разработчики
 [**nordbearbotdev**](https://github.com/nordbearbotdev/) - Сайт & Основа плагина.
 
