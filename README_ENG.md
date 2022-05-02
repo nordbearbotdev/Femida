@@ -16,11 +16,12 @@ Femida is an anti-cheat for the game terraria designed for server administrators
 The main FemidaLocker plugin, allows you to ban cheaters on the server automatically.
 The ability to ban registered users offline
 Creates a ban TShock
-Add. FemidaLogs plugin shows the history and reasons for bans
-Permissions:
-tshock.admin.ban – permission to ban TShock (by default) for one team
+Add. FemidaLogs plugin shows the history and reasons for bans.
 
-# ⚙ Team:
+# Permissions:
+`tshock.admin.ban` – permission to ban TShock (by default) for one team
+
+# ⚙ Comands:
 `/fban add [reason] – works like /ban add [reason] - Femida plugin`
 
 `/fban addtemp [reason] – works like /ban addtemp [reason] - Femida plugin`
