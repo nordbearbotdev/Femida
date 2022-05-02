@@ -21,9 +21,9 @@ Permissions:
 tshock.admin.ban – permission to ban TShock (by default) for one team
 
 # ⚙ Team:
-/fban add [reason] – works like /ban add [reason] - Femida plugin
+`/fban add [reason] – works like /ban add [reason] - Femida plugin`
 
-/fban addtemp [reason] – works like /ban addtemp [reason] - Femida plugin
+`/fban addtemp [reason] – works like /ban addtemp [reason] - Femida plugin`
 
 # 🕹️ Construction of the project
 To build (build) this project, you need:
