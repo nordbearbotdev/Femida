@@ -38,27 +38,32 @@ After installing everything you need, you need to clone this repository:
 
 Further
 
-# go to the folder with Femida
+go to the folder with Femida
+
+```python
+
 cd Femida
-👥 Developers
+```
+
+# 👥 Developers
 nordbearbotdev - Website & Plugin Architecture.
 
-🤝 Partners
+# 🤝 Partners
 Terraria CIS server, on which server this plugin is used.
 
 Terraria Hall server.
 
-🎗 Development assistance
+# 🎗 Development assistance
 To help with development, you can use Issue, where you can report bugs or suggestions.
 
-💰 Support
+# 💰 Support
 Buy Me A Coffee
 
 Join our discord server!
 
 Discord
 
-📃 License
+# 📃 License
 This project is under MIT License . Look at the LICENSE file to read more information.
 
 📬 Our resources!
