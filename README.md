@@ -69,7 +69,8 @@ cd Femida
 <p align="center">
 <a href="https://www.buymeacoffee.com/TerrariaSNG"><img title="Buy Me A Coffee" src="https://miro.medium.com/max/1400/1*QCQqlZr6doDP-cszzpaSpw.png"></a>
   
-
+Вступайте в наш дискорд сервер!
+  
 <p align="center">
 <a href="https://discord.gg/s4gFbdrMmd"><img title="Discord" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg"</a>
 </p>
