@@ -54,7 +54,7 @@ cd Themis
 
 ### 👥 Developers
 
-[**nordbearbotdev**](https://github.com/nordbearbotdev /) - Website & Plugin Architecture.
+[**nordbearbotdev**](https://github.com/nordbearbotdev/) - Website & Plugin Architecture.
 
 ### 🤝 Partners
 Server [Terraria CIS](https://discord.gg/s4gFbdrMmd ), on which server this plugin is used.
