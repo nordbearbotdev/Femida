@@ -79,7 +79,7 @@ To help with development, you can use [Problem](https://github.com/TerraSNG/Femi
   
 ## 📃 License
   
-This project is licensed by MIT . Look at the [LICENSE] file(https://github.com/nordbearbotdev/Femida/edit/main/License ) to read more information.
+This project is licensed by MIT . Look at the [LICENSE](https://github.com/nordbearbotdev/Femida/edit/main/License) to read more information.
   
 ## :mailbox with email: Our resources!
 
