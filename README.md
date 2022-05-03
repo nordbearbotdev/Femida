@@ -80,7 +80,6 @@ cd Femida
   
 Этот проект под MIT Лицензией . Посмотрите файл [LICENSE](https://github.com/nordbearbotdev/Femida/edit/main/License) чтобы прочитать больше информации.
   
-## :mailbox_with_mail: Наши ресусрсы!
 
 <p align="center">
 <br/>
