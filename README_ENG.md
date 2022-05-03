@@ -37,8 +37,8 @@
 
 ### 🕹️ Building a project
 To build (build) this project, you need:
-- [Scoundrel] (https://git-scm.com )
-- [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp /)
+- [Git](https://git-scm.com)
+- [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 - JavaScript
 
 After installing everything you need, you need to clone this repository:
