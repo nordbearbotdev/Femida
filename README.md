@@ -83,12 +83,6 @@ cd Femida
 ## :mailbox_with_mail: Наши ресусрсы!
 
 <p align="center">
-<a href="/" target="_blank" >
-  <img alt="Linkedin - " src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-</a>
-<a href="mailto:Sorry! I dont public email now " target="_blank" >
-  <img alt="Email - " src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
-</a> 
 <br/>
   Made with :coffee: and ❤️ by <b>nordbearbot(Woodman)</b>.
 <p/> 
