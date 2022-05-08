@@ -45,7 +45,7 @@
 
 `git clone https://github.com/nordvearbotdev/Femida`
 
-Далее
+А затем
 
 ```python
 # переходим в папку с Femida
