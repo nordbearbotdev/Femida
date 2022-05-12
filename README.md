@@ -88,7 +88,6 @@ cd Femida
   
 Этот проект под MIT Лицензией . Посмотрите файл [LICENSE](https://github.com/nordbearbotdev/Femida/edit/main/License) чтобы прочитать больше информации. Мы используем эту лицензию, в надежде на то что вы сможете свободно использовать этот плагин и поможете нам в развитиии этого проекта
   
-
 <p align="center">
 <br/>
   Made with :coffee: and ❤️ by <b>nordbearbot(Woodman)</b>.
