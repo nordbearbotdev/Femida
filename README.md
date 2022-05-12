@@ -40,7 +40,7 @@
 Чтобы построить (сбилдить) этот проект вам надо:
 - [Git](https://git-scm.com)
 - [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
-- JavaScript
+- [JavaScript](https://www.javascript.com)
 
 После установки всего нужного вам надо клонировать этот репозиторий:
 
