@@ -8,7 +8,7 @@
 
 ![Femida](https://user-images.githubusercontent.com/85753549/161287353-353808a0-9c40-4255-8097-5592cbb29101.png) 
 
-If you dont speak russian see [English Readme](https://github.com/nordbearbotdev/Femida/edit/main/README.md#contents-english-version) for more information.
+If you dont speak russian see [English Readme](https://github.com/nordbearbotdev/Femida/edit/main/README.md#contents-english-version) for more information. And i glad
 
 # Содержание 
 * [📚 Описание](https://github.com/TerraSNG/Femida/blob/main/README.md#-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
