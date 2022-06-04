@@ -1,15 +1,12 @@
-ВНИМАНИЕ!!! ПРОЦЕСС РАЗРАБОТКИ ДАННОГО ПРОГРАМНОГО ОБЕСПЕЧЕНИЯ ВРЕМЕННО ПРИОСТАНОВЛЕН!  
-
 <div align="center">
 ![License](https://img.shields.io/badge/license--737CA1?style=flat-square) 
 [![Woodman](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)](https://t.me/nordbearbotdev)
-  
 </div>
 
 
 ![Femida](https://user-images.githubusercontent.com/85753549/161287353-353808a0-9c40-4255-8097-5592cbb29101.png) 
 
-If you dont speak russian see [English Readme](https://github.com/nordbearbotdev/Femida/edit/main/README.md#contents-english-version) for more information. And i glad
+If you dont speak russian see [English Readme](https://github.com/nordbearbotdev/Femida/edit/main/README.md#contents-english-version) for more information.
 
 # Содержание 
 * [📚 Описание](https://github.com/TerraSNG/Femida/blob/main/README.md#-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
