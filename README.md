@@ -1,5 +1,5 @@
 <div align="center">
-  
+ВНИМАНИЕ!!! ПРОЦЕСС РАЗРАБОТКИ ДАННОГО ПРОГРАМНОГО ОБЕСПЕЧЕНИЯ ВРЕМЕННО ПРИОСТАНОВЛЕН!  
 ![License](https://img.shields.io/badge/license--737CA1?style=flat-square) 
 [![Made by NatalieBravo](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)](https://t.me/nordbearbotdev)
   
