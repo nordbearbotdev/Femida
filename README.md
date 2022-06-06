@@ -1,6 +1,8 @@
 <div align="center">
+  
 ![License](https://img.shields.io/badge/license--737CA1?style=flat-square) 
 [![Woodman](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)](https://t.me/nordbearbotdev)
+  
 </div>
 
 
