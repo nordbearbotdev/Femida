@@ -1,9 +1,16 @@
-<div align="center">
-  
-![License](https://img.shields.io/badge/license--737CA1?style=flat-square) 
-[![Woodman](https://img.shields.io/badge/made%20by-woodman-blueviolet?style=flat-square)](https://t.me/nordbearbotdev)
-  
-</div>
+<h1 align="center">Добро пожаловать в Femida 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/nordbearbotdev/Femida" />
+  </a>
+</p>
 
 
 ![Femida](https://user-images.githubusercontent.com/85753549/161287353-353808a0-9c40-4255-8097-5592cbb29101.png) 
