@@ -97,7 +97,7 @@ cd Femida
   
 <p align="center">
 <br/>
-  Made with :coffee: and ❤️ by <b>nordbearbot(Woodman)</b>.
+  Made with :coffee: and ❤️ by <b>nordbearbot(Commit)</b>.
 <p/> 
 
 
