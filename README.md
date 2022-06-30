@@ -122,10 +122,10 @@ cd Femida
 
 ## 📦 Plugin Features:
 
-- The main plugin [Femidalocker](https://github.com/TerraSNG/Femida/tree/main/FemidaLocker ), allows you to ban cheaters on the server automatically.
-- The ability to ban registered users offline
-- Creates a ban Tshok
-- Additional plugin [FemidaLogs](https://github.com/TerraSNG/Femida/tree/main/FemidaLogs/BanDisplayer ) shows the history of the reason bans and 
+- [ ] The main plugin [Femidalocker](https://github.com/TerraSNG/Femida/tree/main/FemidaLocker ), allows you to ban cheaters on the server automatically.
+- [ ] The ability to ban registered users offline
+- [ ] Creates a ban Tshok
+- [ ] Additional plugin [FemidaLogs](https://github.com/TerraSNG/Femida/tree/main/FemidaLogs/BanDisplayer ) shows the history of the reason bans and 
 
 ### 🔐 Permissions:
 
