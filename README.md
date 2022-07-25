@@ -29,7 +29,7 @@ If you dont speak russian see [English Readme](https://github.com/nordbearbotdev
 * [📥 Скачать](https://github.com/TerraSNG/Femida/blob/main/Builds.zip)
 
 
-## 📚 Описание
+## ***📚 Описание***
 
 ***Femida*** - это античит для игры террария предназначенный для администраторов серверов.
 
@@ -44,7 +44,7 @@ If you dont speak russian see [English Readme](https://github.com/nordbearbotdev
 
 `tshock.admin.ban` – разрешение на бан для TShock (по умолчанию) для одной команды
 
-### ⚙ Команды:
+### ***⚙ Команды:***
 
 `/fban  add [причина] – работает как и /ban add [причина]` - Плагин Femida
 
