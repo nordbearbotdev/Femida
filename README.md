@@ -40,7 +40,7 @@ If you dont speak russian see [English Readme](https://github.com/nordbearbotdev
 - [ ] Создает бан TShock
 - [ ] Доп. плагин [FemidaLogs](https://github.com/TerraSNG/Femida/tree/main/FemidaLogs/BanDisplayer) показывает историю и причины банов
 
-### 🔐 Разрешения:
+### ***🔐 Разрешения:***
 
 `tshock.admin.ban` – разрешение на бан для TShock (по умолчанию) для одной команды
 
