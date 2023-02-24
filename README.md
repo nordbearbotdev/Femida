@@ -42,7 +42,7 @@ If you dont speak russian see [English Readme](https://github.com/nordbearbotdev
 
 ### ***🔐 Разрешения:***
 
-`tshock.admin.ban` – разрешение на бан для TShock (по умолчанию) для одной команды
+***`tshock.admin.ban` – разрешение на бан для TShock (по умолчанию) для одной команды***
 
 ### ***⚙ Команды:***
 
@@ -56,7 +56,7 @@ If you dont speak russian see [English Readme](https://github.com/nordbearbotdev
 - [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 - [JavaScript](https://www.javascript.com)
 
-После установки всего нужного вам надо клонировать этот репозиторий:
+***После установки всего нужного вам надо клонировать этот репозиторий:***
 
 `git clone https://github.com/nordvearbotdev/Femida`
 
